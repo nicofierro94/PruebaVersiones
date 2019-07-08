@@ -13,3 +13,17 @@ C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Prue
 C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PruebaVersiones.exe.manifest
 C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PruebaVersiones.application
 C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PruebaVersiones.TrustInfo.xml
+C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PruebaVersiones.Properties.Resources.resources
+C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PruebaVersiones.TrustInfo.xml
+C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PruebaVersiones.exe
+C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PruebaVersiones.pdb
+C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PruebaVersiones.exe.config
+C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PruebaVersiones.exe.manifest
+C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PruebaVersiones.application
+C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PruebaVersiones.exe
+C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PruebaVersiones.pdb
+C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PruebaVersiones.exe.manifest
+C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PruebaVersiones.application
