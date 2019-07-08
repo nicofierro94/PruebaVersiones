@@ -1,0 +1,15 @@
+C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PruebaVersiones.Properties.Resources.resources
+C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PruebaVersiones.exe.config
+C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PruebaVersiones.exe
+C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PruebaVersiones.pdb
+C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PruebaVersiones.exe
+C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PruebaVersiones.pdb
+C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PruebaVersiones.exe.manifest
+C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PruebaVersiones.application
+C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PruebaVersiones.exe.manifest
+C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PruebaVersiones.application
+C:\Users\nicfierro\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PruebaVersiones.TrustInfo.xml
