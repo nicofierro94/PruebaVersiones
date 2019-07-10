@@ -15,6 +15,7 @@
     <TargetFrameworkProfile />
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>\\desa.he.local\ReingenieriaHE_DESA\Deploy\</PublishUrl>
+	<PublishDir>\\desa.he.local\ReingenieriaHE_DESA\Deploy\</PublishDir>
     <Install>true</Install>
     <InstallFrom>Unc</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
