@@ -26,4 +26,5 @@ C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\obj\Release
 C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\obj\Release\PruebaVersiones.application
 C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\obj\Release\PruebaVersiones.exe
 C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\obj\Release\PruebaVersiones.pdb
-C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\nicfierro\PruebaVersiones\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
