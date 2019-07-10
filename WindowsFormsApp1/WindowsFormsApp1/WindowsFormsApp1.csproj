@@ -16,7 +16,7 @@
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishDir>\\desa.he.local\ReingenieriaHE_DESA\Deploy\</PublishDir>
     <PublishUrl>\\desa.he.local\ReingenieriaHE_DESA\Deploy\</PublishUrl>
-    <Install>false</Install>
+    <Install>true</Install>
     <InstallFrom>Unc</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
     <UpdateMode>Foreground</UpdateMode>
