@@ -20,11 +20,7 @@
     <InstallFrom>Unc</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
     <UpdateMode>Foreground</UpdateMode>
-    <UpdateInterval>7</UpdateInterval>
-    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
-    <UpdatePeriodically>false</UpdatePeriodically>
-    <UpdateRequired>false</UpdateRequired>
-    <MapFileExtensions>true</MapFileExtensions>
+    
     <InstallUrl>\\desa.he.local\ReingenieriaHE_DESA\Deploy\</InstallUrl>
     <ProductName>PruebaVersiones</ProductName>
     <PublisherName>PruebaVersiones</PublisherName>
