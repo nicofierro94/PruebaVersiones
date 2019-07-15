@@ -38,7 +38,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(78, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Version 7.0.0.8";
+            this.label1.Text = "Version 7.0.0.9";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // Form1
